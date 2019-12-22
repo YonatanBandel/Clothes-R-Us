@@ -1,0 +1,14 @@
+[
+    {"id":1, "title" :"UnderArmor","description": "Athletics Hoodie",
+         "price":90, "imageRef": "/images/item1.jpg"},
+    {"id":2,"title":"Nike", "description": "Athletics Hoodie", "price":100, 
+        "imageRef": "/images/item2.jpg"},
+    {"id":3,"title":"SoftShell", "description": "Wind resistent","price":80, 
+        "imageRef": "/images/item3.jpg"},
+    {"id":4,"title":"Buttoned shirt", "description": "Elegant", "price":50,
+         "imageRef":"/images/item4.jpg"},
+    {"id":5,"title":"T-Shirt", "description": "Casual", "price":30, 
+        "imageRef": "/images/item5.jpg"},
+    {"id":6,"title":"Blazer", "description": "Fancy","price":200, 
+        "imageRef": "/images/item6.jpg"}
+]

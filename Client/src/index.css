@@ -1,0 +1,47 @@
+.box{
+    margin: auto;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+}
+.card{
+    width: 213px;
+    padding: 25px;
+}
+.nav-logo{
+    width: 64px;
+    height: 64px;
+}
+.card-title{
+    color: black;
+    font-weight: 300;
+    text-align: center;
+}
+.cart{
+    margin-top:40px;
+}
+.collection .collection-item{
+    display: flex;
+}
+.title {
+    font-weight: 500;
+    color: #3667c2;
+    margin-bottom: 20px;
+}
+.collection .collection-item img{
+    width: 150px;
+    margin-right: 40px;
+}
+.item-desc{
+    align-self:center;
+}
+
+.card-image {
+    margin: auto;
+}
+
+.card-content {
+    width: 100px;
+    padding: 0px !important;
+    font-size: 12px;
+}
