@@ -2,7 +2,7 @@ An online web store, selling clothes.
 
 BE is implemented using nodeJS, FE is implemented using React - which I learnt especially for this project.
 
-The DB (both for username&password and for the transactions) is implemented using a simple JSON file for simplicity.
+The DB (both for the username&password pairs and for the transactions) is implemented using a JSON file for simplicity.
 
 A link to the assignment's details: https://docs.google.com/document/d/1_CvjBOA03iqN0Tdl3-vrpOJU0E2R-3fI8R5bXzB0isE/edit.
 
