@@ -18,4 +18,4 @@ Open 'Client' folder in CMD:
 Run "npm install".
 Run "npm run start" (runs on port 3000).
 
-![alt text](https://github.com/YonatanBandel/Damka/blob/master/GameSettings.png)
+![alt text](https://github.com/YonatanBandel/Clothes-R-Us/blob/master/a.pdf)
