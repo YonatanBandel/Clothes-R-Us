@@ -19,7 +19,7 @@ Run "npm install".
 Run "npm run start" (runs on port 3000).
 
 
-# Printscreens
+# Screenshots
 
 
 1) Login Page:
