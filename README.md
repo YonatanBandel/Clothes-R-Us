@@ -17,3 +17,5 @@ Run "npm run start" (runs on port 8080).
 Open 'Client' folder in CMD: 
 Run "npm install".
 Run "npm run start" (runs on port 3000).
+
+![alt text](https://github.com/MaayanFarchi/Damka/blob/master/GameSettings.png)
