@@ -1,6 +1,6 @@
 # An online web store, selling clothes
 
-BE is implemented using nodeJS, FE is implemented using React - which I learnt especially for this project.
+BE is implemented using nodeJS, FE is implemented using React.
 
 The DB (both for the username&password pairs and for the transactions) is implemented using a JSON file for simplicity.
 
