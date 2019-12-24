@@ -18,24 +18,38 @@ Open 'Client' folder in CMD:
 Run "npm install".
 Run "npm run start" (runs on port 3000).
 
-Attached are printscreen from the application:
+
+
+
+
+Attached are printscreens from the application:
+
 
 1) Login Page:
 
+
 ![alt text](https://github.com/YonatanBandel/Clothes-R-Us/blob/master/printscreen1.png)
+
 
 2) Home Page:
 
+
 ![alt text](https://github.com/YonatanBandel/Clothes-R-Us/blob/master/printscreen2.png)
+
 
 3) My Cart Page:
 
+
 ![alt text](https://github.com/YonatanBandel/Clothes-R-Us/blob/master/printscreen3.png)
+
 
 4) Checkout Page:
 
+
 ![alt text](https://github.com/YonatanBandel/Clothes-R-Us/blob/master/printscreen4.png)
 
+
 5) Thank You Page:
+
 
 ![alt text](https://github.com/YonatanBandel/Clothes-R-Us/blob/master/printscreen5.png)
