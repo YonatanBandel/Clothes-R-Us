@@ -18,4 +18,4 @@ Open 'Client' folder in CMD:
 Run "npm install".
 Run "npm run start" (runs on port 3000).
 
-![alt text](https://github.com/YonatanBandel/Clothes-R-Us/blob/master/a.pdf)
+![alt text](https://github.com/YonatanBandel/Clothes-R-Us/blob/master/printscreen1.png)
