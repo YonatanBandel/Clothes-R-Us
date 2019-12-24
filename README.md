@@ -1,4 +1,4 @@
-An online web store, selling clothes.
+# An online web store, selling clothes.
 
 BE is implemented using nodeJS, FE is implemented using React - which I learnt especially for this project.
 
@@ -22,7 +22,7 @@ Run "npm run start" (runs on port 3000).
 
 
 
-Attached are printscreens from the application:
+## Attached are printscreens from the application:
 
 
 1) Login Page:
