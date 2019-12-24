@@ -6,7 +6,7 @@ The DB (both for the username&password pairs and for the transactions) is implem
 
 A link to the assignment's details: https://docs.google.com/document/d/1_CvjBOA03iqN0Tdl3-vrpOJU0E2R-3fI8R5bXzB0isE/edit.
 
-To run the application:
+# To run the application
 
 0) Download the files.
 1) Server:
